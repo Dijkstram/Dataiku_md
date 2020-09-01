@@ -1,0 +1,7 @@
+Materiaal voor verdere studie Git gebruik
+
+- Pro Git Book
+- GitHub webcasts
+- The Datascientist's Toolbox
+- Introduction to Git for Datascience
+- How to use Git and Github
